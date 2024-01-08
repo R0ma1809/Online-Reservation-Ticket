@@ -1,0 +1,24 @@
+**Log on to codeastro.com for more projects!***
+
+**Database Name: otrsphp**
+
+**Developed by Roma Vishwakarma Simbiat**
+
+**Recommended PHP Version 7**
+
+
+**You need to insert your own API keys for PayStack Integration**
+
+
+**Admin Login Details**
+
+Email   : roma68039@gmail.com
+Password: Password@123
+
+**Passenger Login Details**
+
+Email   : demoaccount@mail.com
+Password: password
+
+OR sign up with your own details!!
+
